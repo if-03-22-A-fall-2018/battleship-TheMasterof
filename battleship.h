@@ -14,7 +14,6 @@
 #define BATTLESHIP_H
 
 #define FIELDSIZE 10
-
 /**
 *** The values assigned to each cell of the players, the opponents and the
 *** guesses field. The player's and the opponent's field only hold the values
